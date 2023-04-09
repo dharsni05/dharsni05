@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dharsni05
 - 👀 I’m interested in information security ND cloud computing 
-- 🌱 I’m currently learning Information technology 
+- 🌱 
 - 
 - 📫 u can reach me by dharsni05@gmail.com 
 
