@@ -1,5 +1,5 @@
 - 👋 Hey all, This is Dharsni Rajkumar
-- 👀 I’m interested in information security AND cloud computing 
-- JAVA , WEB DEVELOPMENT, DBMS, C++, C, PYTHON, DS, MONGODB, AWS
+- 👀 I’m interested in Information Security AND Cloud Computing 
+- JAVA , WEB DEVELOPMENT, DBMS, C++, C, PYTHON, DS, MONGODB, AWS, CRYPTO
 - 
 - 📫 u can reach me by ** dharsni05@gmail.com **
